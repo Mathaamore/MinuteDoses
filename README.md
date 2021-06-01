@@ -7,10 +7,10 @@ Accès au doses de vaccin disponibles rapidement prêt de chez soi
 
 ## Dépendences Python
 
-- selenium (Chrome)
+- selenium (Firefox)
 - webbrowser 
 - keyboard
-- windsound
+- winsound
 
 ## Utiliser le programme
 
