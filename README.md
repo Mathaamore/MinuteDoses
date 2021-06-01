@@ -7,9 +7,14 @@ Accès aux doses de vaccins disponibles rapidement et prêt de chez soi.
 
 ## Utiliser le programme
 
-Il suffit de lancer MinuteDose.exe
+Il suffit de lancer MinuteDose.exe sur votre ordinateur. Attention, le navigateur firefox est cependant requis.
 
-Puis, vous devrez entrer le lien de votre centre de vaccination. 
+Puis, vous devrez entrer le lien de votre centre de vaccination. Pour trouver le lien de votre centre : 
+
+<p align="center">
+  <img src="https://github.com/Mathaamore/MinuteDoses/blob/27a1fedb605a95e97c77300a727ded9d9d8cdc9e/readme_files/Animation.gif">
+</p>
+
 Une fois cela fait, vous devrez alors choisir l'injection que vous désirez.
 Dès lors, vous n'aurez plus qu'à attendre qu'une dose soit disponible.
 Vous entendrez alors un bip sonore et la page de reservation du vaccin s'ouvrira.
