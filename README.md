@@ -20,6 +20,6 @@ Il ne vous restera alors plus qu'à valider votre choix.
 
 Pour diminuer le temps de reservation, il est préférable de vous connecter préalablement dans votre navigateur par défaut.
 
-## Developement
+## Developpement
 
 MinuteDoses with layout & MinuteDoses sont accessibles de manière OpenSource, vous pouvez alors modifier et ajouter ce que vous voulez afin de rendre ce code meilleur.
