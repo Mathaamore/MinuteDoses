@@ -1,5 +1,5 @@
 # MinuteDoses
-Accès aux doses de vaccins disponibles rapidement et prêt de chez soi.
+Accès aux doses de vaccins disponibles rapidement et près de chez soi.
 
 <p align="center">
   <img src="https://github.com/Mathaamore/MinuteDoses/blob/6fb5bf1f067e0d847c042acbb92ee956a59de142/code/Images/icon.ico">
